@@ -2,7 +2,7 @@
 
 namespace ConsoleApp11
 {
-    internal class Program
+    internal class Secondquestion
     {
         static void Main(string[] args)
         {
